@@ -1,0 +1,4 @@
+bad 
+dog 
+god
+tap
